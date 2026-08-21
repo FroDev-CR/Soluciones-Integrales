@@ -13,9 +13,25 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://soluciones-integrales-costa-rica.matorresu.chatgpt.site"),
   title: "Soluciones Integrales | Costa Rica",
   description:
     "Gas, agua, fontanería, jardinería, estructuras y construcción con un solo equipo.",
+  openGraph: {
+    title: "Soluciones Integrales",
+    description: "Un solo equipo. Todo resuelto.",
+    url: "https://soluciones-integrales-costa-rica.matorresu.chatgpt.site",
+    siteName: "Soluciones Integrales",
+    locale: "es_CR",
+    type: "website",
+    images: [{ url: "/og.png", width: 1672, height: 941, alt: "Soluciones Integrales" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Soluciones Integrales",
+    description: "Un solo equipo. Todo resuelto.",
+    images: ["/og.png"],
+  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
