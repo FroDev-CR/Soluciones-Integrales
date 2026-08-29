@@ -14,14 +14,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://soluciones-integrales-costa-rica.matorresu.chatgpt.site"),
+  metadataBase: new URL("https://soluciones-six.vercel.app"),
   title: "Soluciones Integrales | Costa Rica",
   description:
     "Gas, agua, fontanería, jardinería, estructuras y construcción con un solo equipo.",
   openGraph: {
     title: "Soluciones Integrales",
     description: "Un solo equipo. Todo resuelto.",
-    url: "https://soluciones-integrales-costa-rica.matorresu.chatgpt.site",
+    url: "https://soluciones-six.vercel.app",
     siteName: "Soluciones Integrales",
     locale: "es_CR",
     type: "website",
