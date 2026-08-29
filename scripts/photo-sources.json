@@ -1,0 +1,569 @@
+[
+  {
+    "id": "andres-01",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.19 PM (1).jpeg",
+    "width": 960,
+    "height": 639,
+    "bytes": 93274,
+    "sha256": "cace7ba23d7a70b0deb44d5bdb58a8b7371445e4883c8d8b4e577548c3057103"
+  },
+  {
+    "id": "andres-02",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.19 PM (2).jpeg",
+    "width": 1080,
+    "height": 810,
+    "bytes": 73719,
+    "sha256": "e9c47642870181ebf938fa04a051360333e63c70c1b2c6486383c11a43e3910d"
+  },
+  {
+    "id": "andres-03",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.19 PM (3).jpeg",
+    "width": 389,
+    "height": 545,
+    "bytes": 16949,
+    "sha256": "648f670dc07fb3428e5e45a377ebfe4e6e4a1c530d2554009c41f5698c970e9d"
+  },
+  {
+    "id": "andres-04",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.19 PM (4).jpeg",
+    "width": 960,
+    "height": 720,
+    "bytes": 41270,
+    "sha256": "ada6555d665958b33de909960415ed52b2d973016ffef7194928c45b4bbf6119"
+  },
+  {
+    "id": "andres-05",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.19 PM.jpeg",
+    "width": 1080,
+    "height": 486,
+    "bytes": 43782,
+    "sha256": "2a1b11e3418dfe53374e989ffab44dbad669d40c28cf85d7ee853b7bc1df084d"
+  },
+  {
+    "id": "andres-06",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.20 PM (1).jpeg",
+    "width": 720,
+    "height": 1600,
+    "bytes": 133375,
+    "sha256": "b4abb195c659984474550d8befdbab0cfcb7e66b48500230af18e7e59bd7d58c"
+  },
+  {
+    "id": "andres-07",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.20 PM (2).jpeg",
+    "width": 960,
+    "height": 720,
+    "bytes": 52651,
+    "sha256": "beae453f3ed1186d6154a5c073b5b539370f4d34adbaa4a981f67dfab8e042ca"
+  },
+  {
+    "id": "andres-08",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.20 PM (3).jpeg",
+    "width": 1080,
+    "height": 1440,
+    "bytes": 184461,
+    "sha256": "00dbea0020ef64665e7a9548db6d89303f83d2a7be7794a2705509bd5a14666c"
+  },
+  {
+    "id": "andres-09",
+    "owner": "Andres",
+    "source": "assets\\Andres\\WhatsApp Image 2026-08-25 at 12.58.20 PM.jpeg",
+    "width": 960,
+    "height": 720,
+    "bytes": 24905,
+    "sha256": "74bcfd87f7d3da4041edd093a99b2016d84dea4c3783d55d31864ab98d7e9a99"
+  },
+  {
+    "id": "juanpablo-01",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.47.59 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 72070,
+    "sha256": "3eb22ded9170ff302fff6163ba272101e47f0779262693276140778c540a6aff"
+  },
+  {
+    "id": "juanpablo-02",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.00 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 78958,
+    "sha256": "85a90ff82950bef15356c2ecdc27e5125de9da0cda28110e5777843f9df04c07"
+  },
+  {
+    "id": "juanpablo-03",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.00 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 64762,
+    "sha256": "e6ee562e296584bd9f09383f3577b70759713bb5d9ac96cfaa443ec6f5ae3cb1"
+  },
+  {
+    "id": "juanpablo-04",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.10 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 197627,
+    "sha256": "10de45e5a668dcc0531e75c154359147379dcf4cc5eda31d4a0e20b896008786"
+  },
+  {
+    "id": "juanpablo-05",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.12 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 197509,
+    "sha256": "b5b246b0b8b19a5b7b63eeaf65c002dcd4f677848c32024e3803013f2ee4865c"
+  },
+  {
+    "id": "juanpablo-06",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.12 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 150164,
+    "sha256": "12232cf3502e4296ee0f7d8be41f04a2de9f1a48a9a3070bbf1944dd03cf0b92"
+  },
+  {
+    "id": "juanpablo-07",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.13 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 148512,
+    "sha256": "69d26ab3c079d6f370ff972f0f53c88ebadbc3ba4b94e5a16fb3cb1033a8ddd9"
+  },
+  {
+    "id": "juanpablo-08",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.13 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 141362,
+    "sha256": "de78f4fba97d68856b855875fbbd7199697f155e8441b176829a57701b141ae1"
+  },
+  {
+    "id": "juanpablo-09",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.39 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 74338,
+    "sha256": "2851b0e1584fd7fbc901cff57146ce270fdb114cc3a53d5115081b2127e051e4"
+  },
+  {
+    "id": "juanpablo-10",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.39 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 64129,
+    "sha256": "d800be0d3701271c63dbeb7507f10bee80865ba005be843f2bf9fcb4217ede91"
+  },
+  {
+    "id": "juanpablo-11",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.51 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 201181,
+    "sha256": "a278fcd83b096462cb686851c46b8f60a1fa3354573e3b3d37cc787da02c5248"
+  },
+  {
+    "id": "juanpablo-12",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.48.51 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 204022,
+    "sha256": "4a7297b1fd7d513c9101571ce6395776af5b7c5ee923f5ba6659f1c57d27f91f"
+  },
+  {
+    "id": "juanpablo-13",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.51 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 62046,
+    "sha256": "3cea033568e982b7573bd2d639ed307ef0ec72cf82ec068018b83e72ac57f09a"
+  },
+  {
+    "id": "juanpablo-14",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.51 PM (2).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 80894,
+    "sha256": "276f32cf7efa6a63adc70c758641243c626a783e427793f01339aed920c353cb"
+  },
+  {
+    "id": "juanpablo-15",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.51 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 60964,
+    "sha256": "a1402069a5d087b2f86dbd2476bdfb4398da76465caf06b0c1b922cfdd5ccb95"
+  },
+  {
+    "id": "juanpablo-16",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.52 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 163615,
+    "sha256": "d86b3dd3571c55753ac5d555792563899f8f13502bd2794c047595bf48b08b3c"
+  },
+  {
+    "id": "juanpablo-17",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.52 PM (2).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 46275,
+    "sha256": "77f851e6b4fa35db47a3b6026a1bb121819e7249e2bb21968d7c4e3871d1d4f7"
+  },
+  {
+    "id": "juanpablo-18",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.52 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 163248,
+    "sha256": "c751ad5c5c9081fe9c94abe556cd3e5ac5e5111a190916f5ca2d04ab71d5282e"
+  },
+  {
+    "id": "juanpablo-19",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.53 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 82677,
+    "sha256": "15a16110d4fc2538e06e7684aa1d44b566fdafb405cb4927f1ea8cb680a47e60"
+  },
+  {
+    "id": "juanpablo-20",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.50.53 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 94134,
+    "sha256": "6e75e7b5de3b750667be8b2ec18e09c809d83af3b7aa7062d5b9a12aadec080f"
+  },
+  {
+    "id": "juanpablo-21",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.53 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 187009,
+    "sha256": "c5d76048840348d61ed03cce99b51bf58b59ab3602fc6514cd60d9a244e2ac40"
+  },
+  {
+    "id": "juanpablo-22",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.53 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 119328,
+    "sha256": "5f15e051d9abcc9e009da10f23c0370d8788eb49c4f8abbcf015d230c90e453d"
+  },
+  {
+    "id": "juanpablo-23",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.54 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 85322,
+    "sha256": "31c86a3961ed830077700a56dea5903fcda69cb9817e05c2db2ed70fb8d4b165"
+  },
+  {
+    "id": "juanpablo-24",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.56 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 103252,
+    "sha256": "3f173804520fb3bc93ccbc6e848ea15b3b0fc87e89858b27ced44aefb4e9fa73"
+  },
+  {
+    "id": "juanpablo-25",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.56 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 108686,
+    "sha256": "019850bf6ea9860094c95f23043d4367fa7bf809ad65c918d61fc0f209c582c3"
+  },
+  {
+    "id": "juanpablo-26",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.57 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 79871,
+    "sha256": "714b1507cfe27aa90c42cf1c69c40f0ab2a1faa4175a2a6af91c0ad8552bcf59"
+  },
+  {
+    "id": "juanpablo-27",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.56.57 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 92316,
+    "sha256": "faa9cff4d0c454c225237443e6a3f6ecd324bbf622a129b70d1fa1951d1bfa67"
+  },
+  {
+    "id": "juanpablo-28",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.00 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 87445,
+    "sha256": "5deeeac2c30ce04937cb8e8319df1ca224218d3102a1d7ef6dd6237248642843"
+  },
+  {
+    "id": "juanpablo-29",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.00 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 76361,
+    "sha256": "2f29d8006fc71a575bca07f458de0a2f0218cf5b2d73a964f364eb9e411f7720"
+  },
+  {
+    "id": "juanpablo-30",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.01 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 123839,
+    "sha256": "ac46b291e077cde679e7951958e6f07985eca2313327d8f395134e5538aba94d"
+  },
+  {
+    "id": "juanpablo-31",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.02 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 219755,
+    "sha256": "c7fab2a587b20323a915b876098d7f258a92738c88a9e4b4b0ecad30a78c2deb"
+  },
+  {
+    "id": "juanpablo-32",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.02 PM (2).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 109205,
+    "sha256": "a027f42fe1bb297a41f96fa94cbef2aee79bda973f49abea2fb124c8dbafb791"
+  },
+  {
+    "id": "juanpablo-33",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.02 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 255525,
+    "sha256": "5d9e2b79c8fe898b28cb33b750a92bfc4ba527a1091baca2caf198f899581497"
+  },
+  {
+    "id": "juanpablo-34",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.03 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 71346,
+    "sha256": "b75a412ff264e555d216ab65cd104a877331250c07f719e3cd2a149797d07495"
+  },
+  {
+    "id": "juanpablo-35",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.03 PM (2).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 93754,
+    "sha256": "8cb7790e1e31577d12e4f38f3f7b6e7f9188173e064aeb55ab09e2d78bb15f4c"
+  },
+  {
+    "id": "juanpablo-36",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.03 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 95758,
+    "sha256": "a5ae338c7c71b67d5ef2a04dfeb174768a24d029342205f053c54811e91526e2"
+  },
+  {
+    "id": "juanpablo-37",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.04 PM (1).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 214757,
+    "sha256": "004b9a9cec25a4fc1ef98eddf6a67a456b18a9945c172c605e88eca274fe3a8d"
+  },
+  {
+    "id": "juanpablo-38",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.04 PM (2).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 112605,
+    "sha256": "77094fc17d0732ce86c9f26b30b0cdbb7dbcda5c2720a2d27c44ce91fc1e5a5c"
+  },
+  {
+    "id": "juanpablo-39",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.04 PM.jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 163146,
+    "sha256": "33e7f37d57cae4707bb787ccaa31fbf362da9feeba3aa013f0210f695b7452b7"
+  },
+  {
+    "id": "juanpablo-40",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.05 PM (1).jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 106272,
+    "sha256": "acf282a451a14ea20177f029c2e407ed5356cefed0ae54fac6ede8775e28b4b2"
+  },
+  {
+    "id": "juanpablo-41",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.05 PM (2).jpeg",
+    "width": 591,
+    "height": 1280,
+    "bytes": 96985,
+    "sha256": "78f9bef3b2f12f04dbb16c386458f69d2c127deed8504aaf46db7029fbbbe727"
+  },
+  {
+    "id": "juanpablo-42",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.05 PM.jpeg",
+    "width": 738,
+    "height": 1600,
+    "bytes": 116604,
+    "sha256": "4ebe931095660293a912de5961616522fef6b50482ba4ca822fe892427f7e10b"
+  },
+  {
+    "id": "juanpablo-43",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.06 PM (1).jpeg",
+    "width": 1280,
+    "height": 1280,
+    "bytes": 175754,
+    "sha256": "9ca1dff96a5709c4e2b37546cdb94a811c43df71c8a344d591ee6c375bef49c9"
+  },
+  {
+    "id": "juanpablo-44",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.06 PM.jpeg",
+    "width": 1280,
+    "height": 1280,
+    "bytes": 194249,
+    "sha256": "fc86d11e436b5a2f1aca95a061634c6adc21b4c8e8a985361c1930a603e8f7f3"
+  },
+  {
+    "id": "juanpablo-45",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.08 PM (1).jpeg",
+    "width": 1280,
+    "height": 1280,
+    "bytes": 144872,
+    "sha256": "b3400332cc1f312136f83ccfa83750addc829788a444efcf7b8fec317a978ce0"
+  },
+  {
+    "id": "juanpablo-46",
+    "owner": "JuanPablo",
+    "source": "assets\\JuanPablo\\WhatsApp Image 2026-08-25 at 1.57.08 PM.jpeg",
+    "width": 1280,
+    "height": 1280,
+    "bytes": 144780,
+    "sha256": "9becc98afe3ceeb6a7fe52d24a70673a206550870ed18b24f0c5e0d800ef27ac"
+  },
+  {
+    "id": "marvin-01",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\196499488_298099378645848_3436358655762685634_n.jpg",
+    "width": 590,
+    "height": 443,
+    "bytes": 42652,
+    "sha256": "d4fe5191483ff8423eb02423f2efb87b1d77c0de2e05aa6ca4bc2f612bd12653"
+  },
+  {
+    "id": "marvin-02",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.26.59 PM (1).jpeg",
+    "width": 1204,
+    "height": 1600,
+    "bytes": 131532,
+    "sha256": "8345c10e0769d283b22858b24bd2bf5b5702550b0f153529db7d9b3cf1e693cf"
+  },
+  {
+    "id": "marvin-03",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.26.59 PM (2).jpeg",
+    "width": 1204,
+    "height": 1600,
+    "bytes": 194663,
+    "sha256": "1893040502e69a9526004e560cd3cb11c135143473195f00b5bd74fe4d8ab30e"
+  },
+  {
+    "id": "marvin-04",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.26.59 PM (3).jpeg",
+    "width": 1600,
+    "height": 1204,
+    "bytes": 333415,
+    "sha256": "232b395a36d568d1ea3ce9a70267f80ee9ee641c9897466a4ac60ef8246c1f4c"
+  },
+  {
+    "id": "marvin-05",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.26.59 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "bytes": 272461,
+    "sha256": "6c63481e0e8dbd31dae0003eee7d3692d0bb5cbe67d56495b6d66111b12bc27c"
+  },
+  {
+    "id": "marvin-06",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.27.00 PM (1).jpeg",
+    "width": 1600,
+    "height": 1204,
+    "bytes": 195266,
+    "sha256": "e17f88954e35cb8e829abe102f1b7b53af2fc7148fba0bca45d9eec7040ef53d"
+  },
+  {
+    "id": "marvin-07",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.27.00 PM.jpeg",
+    "width": 1600,
+    "height": 1204,
+    "bytes": 215381,
+    "sha256": "c2887589e89d81a5115959d67147eab6cf0c807ae4fdb8acd25361952853294d"
+  },
+  {
+    "id": "marvin-08",
+    "owner": "Marvin",
+    "source": "assets\\Marvin\\WhatsApp Image 2026-08-25 at 12.27.01 PM.jpeg",
+    "width": 720,
+    "height": 1280,
+    "bytes": 200652,
+    "sha256": "44ff9ee877f35abd50a17f6d5826edcba7d6a7850447148f6284f9e12b88a9cd"
+  }
+]

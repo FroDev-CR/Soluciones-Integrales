@@ -1,48 +1,7 @@
 import Image from "next/image";
 import { PlasmaCanvas } from "./PlasmaCanvas";
-
-const services = [
-  {
-    number: "01",
-    title: "Gas LP",
-    description:
-      "Venta, instalación y mantenimiento de sistemas de gas para hogares, comercios e industria.",
-    tags: ["Gas LP", "Tuberías", "Cocinas", "Calentadores"],
-    tone: "rust",
-  },
-  {
-    number: "02",
-    title: "Agua y bombeo",
-    description:
-      "Tanques de captación, equipos de bombeo, calentadores, tubería PVC y acompañamiento técnico.",
-    tags: ["Tanques", "Bombas", "PVC", "Agua potable"],
-    tone: "cream",
-  },
-  {
-    number: "03",
-    title: "Fontanería y saneamiento",
-    description:
-      "Destape de tuberías, limpieza de tanques sépticos, trampas de grasa y fontanería general.",
-    tags: ["Destape", "Sépticos", "Trampas de grasa", "Fontanería"],
-    tone: "dark",
-  },
-  {
-    number: "04",
-    title: "Jardinería",
-    description:
-      "Chapeo de terrenos, mantenimiento de áreas verdes y poda controlada de arbustos y árboles.",
-    tags: ["Chapeo", "Poda", "Áreas verdes", "Terrenos"],
-    tone: "paper",
-  },
-  {
-    number: "05",
-    title: "Estructuras y obra",
-    description:
-      "Soldadura general, estructuras metálicas, remodelaciones y ejecución de obra gris.",
-    tags: ["Soldadura", "Metal", "Remodelación", "Obra gris"],
-    tone: "orange",
-  },
-];
+import { Portfolio } from "./Portfolio";
+import { services } from "./data/services";
 
 const process = [
   ["01", "Nos cuenta", "Escuchamos la necesidad y reunimos la información clave."],
@@ -113,37 +72,9 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="services-section" id="servicios">
-        <div className="section-shell">
-          <div className="section-heading">
-            <div>
-              <p className="section-kicker">Qué resolvemos</p>
-              <h2>Servicios para cada parte de su propiedad.</h2>
-            </div>
-            <p>Desde una reparación puntual hasta un proyecto técnico completo.</p>
-          </div>
+      <Portfolio />
 
-          <div className="services-grid">
-            {services.map((service) => (
-              <article className={`service-card ${service.tone}`} key={service.title}>
-                <span className="service-number">{service.number}</span>
-                <div>
-                  <h3>{service.title}</h3>
-                  <p>{service.description}</p>
-                </div>
-                <ul aria-label={`Incluye ${service.title}`}>
-                  {service.tags.map((tag) => <li key={tag}>{tag}</li>)}
-                </ul>
-                <a href="#contacto" aria-label={`Cotizar ${service.title}`}>
-                  Cotizar servicio <span aria-hidden="true">↗</span>
-                </a>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="property-section" id="proyectos">
+      <section className="property-section">
         <div className="section-shell property-shell">
           <div className="property-copy">
             <p className="section-kicker light">Trabajamos a su escala</p>
@@ -211,7 +142,7 @@ export default function Home() {
             </label>
             <label className="full-field">
               Servicio
-              <select name="service" defaultValue="">
+              <select name="service" id="quote-service" defaultValue="">
                 <option value="" disabled>Seleccione un área</option>
                 {services.map((service) => <option key={service.title}>{service.title}</option>)}
                 <option>Necesito orientación</option>
